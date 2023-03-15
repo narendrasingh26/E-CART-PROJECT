@@ -1,0 +1,42 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+
+body{
+    background-image: url(./alok.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#ecart{
+    margin-left: 500px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#fom{
+    margin-left: 250px;
+    
+}
+#lo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    ;
+}
+#pd{
+    margin-left: 200px;
+}
+#bt{
+    font-weight: bold;
+    background-color: rgb(207, 211, 216);
+}
+#tvalue{
+    margin-left: 200px;
+}
+#list{
+     margin-left: 200px;
+}
+#rm{
+    background-color: rgb(176, 183, 189);
+    font-weight: bold;
+}
